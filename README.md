@@ -16,3 +16,11 @@ The data for this project was obtained from [Kaggle](https://www.kaggle.com/jeev
 * Evaluation Metrics
   * F1-Score
   * Log Loss
+ 
+## Prerequisites
+Commands for installing the various libraries you need to start this project.
+
+* pip install pandas
+* pip install numpy
+* pip install seaborn
+* pip install -U scikit-learn
